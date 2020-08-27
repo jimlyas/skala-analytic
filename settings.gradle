@@ -1,0 +1,3 @@
+include ':skala'
+include ':app'
+rootProject.name = "Skala Analytic"
